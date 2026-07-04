@@ -1,12 +1,12 @@
 # HRMS-ODOO-X-DEVINS
 
-An enterprise-grade Human Resource Management System (HRMS) featuring a beautiful Odoo-inspired purple and white theme, designed for the Odoo x Adamas University Hackathon 2026. 
+An enterprise-grade Human Resource Management System (HRMS) featuring a beautiful Odoo-inspired blue and white theme, designed for the Odoo x Adamas University Hackathon 2026. 
 
 This platform digitizes critical corporate HR activities: dynamic employee onboarding, real-time geofenced attendance punches, leave management workflow, payslip records, profile management, comprehensive admin analytics panels, and a secure **Email Verification System**.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend Core**: React 19 + TypeScript + Vite 8
 - **Styling**: Tailwind CSS v4 (incorporating modern grid layout and glassmorphic filters)
@@ -23,7 +23,7 @@ This platform digitizes critical corporate HR activities: dynamic employee onboa
 
 ---
 
-## 🛠️ Project Architecture
+##  Project Architecture
 
 ```mermaid
 graph TD
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-## ✨ Features Checklist
+##  Features Checklist
 
 ### 1. Role-Based Authentication & Verification
 - **Secure Sign In & Sign Up**: Includes validation rules for strong passwords and email verification.
@@ -83,7 +83,7 @@ graph TD
 
 ---
 
-## 🔑 Authentication API Endpoints
+##  Authentication API Endpoints
 
 | Endpoint | Method | Input Parameters | Description |
 |:---|:---|:---|:---|
@@ -94,7 +94,7 @@ graph TD
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 Ensure you have [Node.js](https://nodejs.org/) installed.
 
@@ -143,7 +143,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 
 ---
 
-## 🔑 Mock Login Credentials
+##  Mock Login Credentials
 
 For convenience, you can test the application using the following mock accounts (auto-hashed and verified on backend startup):
 
