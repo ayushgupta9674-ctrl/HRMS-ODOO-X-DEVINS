@@ -156,4 +156,7 @@ For convenience, you can test the application using the following mock accounts 
 
 ## 👨‍💻 Team Details (Devins)
 - **Ayush** — Lead Full-Stack Architect
-- **Team Devins** — Adamas University Hackathon 2026
+- **Saptarshi** — User Experience
+- **Naman** — Backend , database
+- **Tanay** — UI/UX
+- **Team Devins** — Odoo X Adamas 2026
